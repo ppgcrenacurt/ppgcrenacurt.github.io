@@ -1,7 +1,5 @@
----
-title: "Mapa interativo da capacidade de suporte de carga dos solos da Bacia Hidrográfica do Rio Preto – BA"
-output: html_document
----
+
+**Título**: Mapa interativo da capacidade de suporte de carga dos solos da Bacia Hidrográfica do Rio Preto – BA
 
 **Autores**: Anderson Rodrigo da Silva, Ítalo Rômulo Mendes de Souza
 
