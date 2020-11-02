@@ -2,5 +2,14 @@ title: "PTTs CRENAC"
 theme: minima
 github_username: leg-ifgoiano
 markdown: kramdown
-tagline: " "
 description: " "
+tags:
+  - GitHub
+  - GitHub Pages
+footer_links:
+  - title: Instagram
+    url: https://instagram.com/
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/leg-ifgoiano
+    icon: fab fa-github-square
