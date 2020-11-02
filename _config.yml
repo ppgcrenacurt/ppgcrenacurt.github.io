@@ -3,15 +3,10 @@ theme: minima
 github_username: leg-ifgoiano
 markdown: kramdown
 description: " "
-tags:
-  - GitHub
-  - GitHub Pages
-footer_links:
-  - title: Instagram
-    url: https://instagram.com/
-    icon: fab fa-instagram
-  - title: GitHub
-    url: https://github.com/leg-ifgoiano
-    icon: fab fa-github-square
-search_in_topnav: true
-github_button_location_top_navbar: true
+social_icons:
+    enable: true
+    icons_only: true
+    transition: true
+social:
+    GitHub: https://github.com/ppgcrenacurt|| github
+    E-Mail: mailto:ppgcrenac.urt@ifgoiano.edu.br || envelope
