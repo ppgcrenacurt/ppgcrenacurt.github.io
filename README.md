@@ -10,7 +10,7 @@
    * [&#x1f4dd; Protocolos e processos](#protocolos-e-processos)
 
 
-## &#x1f5fa; Mapas [](#mapas)
+## &#x1f5fa; Mapas ![](#mapas)
 
 [![](imagens/matopiba.png)](https://ppgcrenacurt.github.io/MATOPIBA/) | MAPAS DE USO E COBERTURA DO SOLO DO MATOPIBA, EM 2008 E 2018. Produção técnica resultado da dissertação do discente Temístocles Pacheco Lima, defendida em 2020 no PPG-CRENAC/IFGoiano.
 -----------|:------------------------------------------------------ 
@@ -18,17 +18,17 @@
 [![](imagens/invasoras.png)](https://ppgcrenacurt.github.io/Plantas_Invasoras_Brasil/) | MAPAS DE RIQUEZA DE ESPÉCIES DE PLANTAS INVASORAS NO BRASIL NOS CENÁRIOS ATUAL E FUTURO (2080). Prod. técnica da dissertação de Luiza Gabriela Fulgêncio Lima, defendida em 2018 no PPG-CRENAC/IFGoiano.
 
 
-## &#x1f4bb; Software [](#software)
+## &#x1f4bb; Software ![](#software)
 
 em breve...
 
 
-## &#x1f393; Cursos e treinamentos [](#cursos)
+## &#x1f393; Cursos e treinamentos ![](#cursos)
 
 em breve...
 
 
-## &#x1f4dd; Protocolos e processos [](#protocolos)
+## &#x1f4dd; Protocolos e processos ![](#protocolos)
 
 em breve...
 
