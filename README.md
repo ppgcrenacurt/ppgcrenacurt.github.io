@@ -8,7 +8,9 @@
    * [&#x1f4bb; Software](#software)
    * [&#x1f393; Cursos e treinamentos](#cursos-e-treinamentos)
    * [&#x1f4dd; Protocolos e processos](#protocolos-e-processos)
+   * [&#x2709; Contato](#contato)
 
+----
 
 ## Mapas
 
@@ -33,5 +35,5 @@ em breve...
 em breve...
 
 
-## &#x2709; Contato
+## Contato
 E-mail: ppgcrenac.urt@ifgoiano.edu.br
