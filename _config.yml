@@ -13,3 +13,5 @@ footer_links:
   - title: GitHub
     url: https://github.com/leg-ifgoiano
     icon: fab fa-github-square
+search_in_topnav: true
+github_button_location_top_navbar: true
