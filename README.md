@@ -1,7 +1,7 @@
-[![](imagens/banner.png)](https://leg-ifgoiano.github.io/produtos/)
+[![](imagens/banner.png)](https://ppgcrenacurt.github.io)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![HitCount](http://hits.dwyl.com/{leg-ifgoiano}/{produtos}.svg)](http://hits.dwyl.com/{leg-ifgoiano}/{produtos})
+[![HitCount](http://hits.dwyl.com/{ppgcrenacurt}/{ppgcrenacurt.github.io}.svg)](http://hits.dwyl.com/{ppgcrenacurt}/{ppgcrenacurt.github.io})
 
 ## Conteúdo
 
