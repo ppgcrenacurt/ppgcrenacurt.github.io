@@ -1,6 +1,7 @@
 [![](imagens/banner.png)](https://www.ifgoiano.edu.br/home/index.php/urutai)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![HitCount](http://hits.dwyl.com/{leg-ifgoiano}/{produtos}.svg)](http://hits.dwyl.com/{leg-ifgoiano}/{produtos})
 
 ## Conteúdo
 
@@ -19,21 +20,28 @@
 [![](imagens/bhrp.png)](https://ppgcrenacurt.github.io/Bacia_Hidrografica_Rio_Preto/) | MAPA INTERATIVO DA CAPACIDADE DE SUPORTE DE CARGA DE SOLOS DA BACIA HIDROGRÁFICA DO RIO PRETO - BA. Prod. técnica resultado da dissertação do discente Ítalo Rômulo Mendes de Souza, defendida em 2020 no PPG-CRENAC do IF Goiano, campus Urutaí.
 [![](imagens/invasoras.png)](https://ppgcrenacurt.github.io/Plantas_Invasoras_Brasil/) | MAPAS DE RIQUEZA DE ESPÉCIES DE PLANTAS INVASORAS NO BRASIL NOS CENÁRIOS ATUAL E FUTURO (2080). Prod. técnica da dissertação de Luiza Gabriela Fulgêncio Lima, defendida em 2018 no PPG-CRENAC/IFGoiano.
 
+----
 
 ## Software
 
 em breve...
 
 
+----
+
 ## Cursos e treinamentos
 
 em breve...
 
 
+----
+
 ## Protocolos e processos
 
 em breve...
 
+
+----
 
 ## Contato
 E-mail: ppgcrenac.urt@ifgoiano.edu.br
