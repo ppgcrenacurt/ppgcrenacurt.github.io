@@ -22,7 +22,7 @@
 
 ----
 
-# &#x1f4bb; Software [](#software)
+## &#x1f4bb; Software [](#software)
 
 em breve...
 
@@ -38,6 +38,7 @@ em breve...
 
 em breve...
 
-
 ---- 
-Contato: ppgcrenac.urt@ifgoiano.edu.br
+
+## Contato
+E-mail: ppgcrenac.urt@ifgoiano.edu.br
