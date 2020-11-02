@@ -33,5 +33,5 @@ em breve...
 em breve...
 
 
-## Contato
+## &#x2709; Contato
 E-mail: ppgcrenac.urt@ifgoiano.edu.br
