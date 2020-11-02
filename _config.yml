@@ -1,5 +1,12 @@
 title: " "
 theme: minima
+github_username: leg-ifgoiano
+markdown: kramdown
+tagline: " "
+description: " "
+tags:
+  - GitHub
+  - GitHub Pages
 social-network-links:
   github: jekyll
 navbar:
