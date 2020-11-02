@@ -1,14 +1,5 @@
-title: "PTTs CRENAC"
+title: PPG-CRENAC
 theme: minima
-github_username: leg-ifgoiano
+github_username: ppgcrenacurt
 markdown: kramdown
-description: " "
-menu:
-  github_banner: https://github.com/ppgcrenacurt
-  social_icons:
-    enable: true
-    icons_only: true
-    transition: true
-  social:
-    GitHub: https://github.com/ppgcrenacurt|| github
-    E-Mail: mailto:ppgcrenac.urt@ifgoiano.edu.br || envelope
+description: PTTs
