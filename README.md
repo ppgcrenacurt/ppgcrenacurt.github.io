@@ -1,4 +1,4 @@
-[![](imagens/banner.png)](https://www.ifgoiano.edu.br/home/index.php/urutai)
+[![](imagens/banner.png)](https://leg-ifgoiano.github.io/produtos/)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![HitCount](http://hits.dwyl.com/{leg-ifgoiano}/{produtos}.svg)](http://hits.dwyl.com/{leg-ifgoiano}/{produtos})
