@@ -1,9 +1,7 @@
 
-```{r setup, echo = FALSE, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 [![](imagens/banner.png)](https://www.ifgoiano.edu.br/home/index.php/urutai)
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Conteúdo
 
@@ -42,4 +40,4 @@ em breve...
 
 
 ---- 
- Licença: [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+Contato: ppgcrenac.urt@ifgoiano.edu.br
