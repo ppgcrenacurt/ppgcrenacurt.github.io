@@ -1,7 +1,7 @@
 [![](imagens/banner.png)](https://ppgcrenacurt.github.io)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![HitCount](http://hits.dwyl.com/ppgcrenacurt/ppgcrenacurtgithubio.svg)](http://hits.dwyl.com/ppgcrenacurt/ppgcrenacurtgithubio)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fppgcrenacurt.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Conteúdo
 
