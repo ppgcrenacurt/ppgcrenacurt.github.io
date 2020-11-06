@@ -5,7 +5,7 @@
 
 **Tipo**: Mapa
 
-**URL**: <https://ppgcrenacurt.github.io/Bacia_Hidrografica_Rio_Preto/>
+**DOI/URL**: <https://doi.org/10.33837/cr.map.0120>
 
 **Ano de publicação**: 2020
 
@@ -19,4 +19,4 @@
 
 **Inovação**: Essa é a primeira iniciativa de aplicação de técnicas de sensoriamento remoto para estimação da capacidade de suporte de carga de solos no país. A metodologia sugerida na construção do mapa tem potencial de inovação no desenvolvimento de sensores remoto ou proximais de umidade do solo e no desenvolvimento de software de GIS.
 
-**Complexidade**: A tensão de preconsolidação pode ser utilizada como estimativa da capacidade de suporte de carga (CSC) do solo, que é indicativo do uso, em específico do histórico de pressões superficiais, de modo que pressões superiores a CSC causam impactos negativos irreversíveis ao solo. No entanto, a CSC é de difícil obtenção, sendo estritamente uma medida tomada em laboratório, sendo ainda poucos os laboratórios especializados no país. Está relacionada com outras características como umidade, aeração, textura, representando assim um índice geral da qualidade estrutural e física do solo. O mapa temático construído combina conhecimentos de solos, uso e conservação, ferramentas de informação geográfica e sensoriamento remoto para classificar os solos da Bacia Hidrográfica do Rio Preto pelo tipo de uso e cobertura, utilizando-se de uma série de funções de pedotransferência publicadas para solos brasileiros e de informações de satélite de alta resolução temporal para estimar a capacidade de suporte de carga.
+**Complexidade**: A tensão de preconsolidação pode ser utilizada como estimativa da capacidade de suporte de carga (CSC) do solo, que é indicativo do uso, em específico do histórico de pressões superficiais, de modo que pressões superiores a CSC causam impactos negativos irreversíveis ao solo. No entanto, a CSC é de difícil obtenção, sendo estritamente uma medida tomada em laboratório, sendo ainda poucos os laboratórios especializados no país. Está relacionada com outras características como umidade, aeração, textura, representando assim um índice geral da qualidade estrutural e física do solo. O mapa temático construído combina conhecimentos de solos, uso e conservação, ferramentas de informação geográfica e sensoriamento remoto para classificar os solos da Bacia Hidrográfica do Rio Preto pelo tipo de uso e cobertura, utilizando-se de uma série de funções de pedotransferência publicadas para solos brasileiros e de informações de satélite de alta resolução temporal para estimar a capacidade de suporte de carga. O projeto de mestrado foi desenvolvido em colaboração com dois corientadores, uma da área de física do solo e outro de sensoriamento remoto.
