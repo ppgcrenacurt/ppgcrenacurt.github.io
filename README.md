@@ -25,7 +25,9 @@ Preview | Produto | Ano
 
 ## Software
 
-em breve...
+Preview | Produto | Ano
+-----------|:------------------------------------------------------|:----- 
+[![](imagens/seedwater.png)](https://cran.r-project.org/package=seedwater) | _seedwater_: models for drying and soaking kinetics of seeds (version 1.0). [Descrição completa](produtos/2020/software_seedwater.md). Registro INPI: BR512019000731-0 | 2019
 
 
 ----
