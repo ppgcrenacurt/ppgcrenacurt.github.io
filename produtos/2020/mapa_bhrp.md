@@ -5,7 +5,7 @@
 
 **Tipo**: Mapa
 
-**DOI/URL**: <https://doi.org/10.33837/cr.map.0120>
+**DOI**: <https://doi.org/10.33837/cr.map.0120>
 
 **Ano de publicação**: 2020
 
