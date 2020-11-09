@@ -1,5 +1,9 @@
 title: PPG-CRENAC
-theme: minima
-github_username: ppgcrenacurt
-markdown: kramdown
 description: PTTs
+markdown: kramdown
+theme: jekyll-theme-basically-basic
+plugins: # previously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
