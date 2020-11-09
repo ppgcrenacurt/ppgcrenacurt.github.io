@@ -19,10 +19,10 @@
 
 Preview | Produto | Ano
 -----------|:------------------------------------------------------|:----- 
-[![](imagens/matopiba.png)](https://ppgcrenacurt.github.io/MATOPIBA/) | MAPAS DE USO E COBERTURA DO SOLO DO MATOPIBA, EM 2008 E 2018. Produção técnica resultado da dissertação do discente Temístocles Pacheco Lima, defendida em 2020 no PPG-CRENAC/IFGoiano. | 2020
-[![](imagens/bhrp.png)](https://ppgcrenacurt.github.io/Bacia_Hidrografica_Rio_Preto/) | MAPA INTERATIVO DA CAPACIDADE DE SUPORTE DE CARGA DE SOLOS DA BACIA HIDROGRÁFICA DO RIO PRETO - BA. Prod. técnica resultado da dissertação do discente Ítalo Rômulo Mendes de Souza, defendida em 2020 no PPG-CRENAC do IF Goiano, campus Urutaí. [Descrição completa](produtos/2020/mapa_bhrp.md). [DOI:10.33837/cr.map.0120](https://doi.org/10.33837/cr.map.0120) | 2020
-[![](imagens/invasoras.png)](https://ppgcrenacurt.github.io/Plantas_Invasoras_Brasil/) | MAPAS DE RIQUEZA DE ESPÉCIES DE PLANTAS INVASORAS NO BRASIL NOS CENÁRIOS ATUAL E FUTURO (2080). Prod. técnica da dissertação de Luiza Gabriela Fulgêncio Lima, defendida em 2018 no PPG-CRENAC/IFGoiano. | 2020
-[![](imagens/tartarugas.png)](https://ppgcrenacurt.github.io/Tartarugas_Terrestres/) | MAPA DE RIQUEZA DE ESPÉCIES DE TARTARUAS TERRESTRES NO BRASIL. Prod. técnica da dissertação de Luiza Gabriela Fulgêncio Lima, defendida em 2018 no PPG-CRENAC/IFGoiano. [Descrição completa](produtos/2019/manual_teste1.pdf) | 2020
+[<img src="imagens/matopiba.png" width="250">](https://ppgcrenacurt.github.io/MATOPIBA/) | MAPAS DE USO E COBERTURA DO SOLO DO MATOPIBA, EM 2008 E 2018. Produção técnica resultado da dissertação do discente Temístocles Pacheco Lima, defendida em 2020 no PPG-CRENAC/IFGoiano. | 2020
+[<img src="imagens/bhrp.png" width="250">](https://ppgcrenacurt.github.io/Bacia_Hidrografica_Rio_Preto/) | MAPA INTERATIVO DA CAPACIDADE DE SUPORTE DE CARGA DE SOLOS DA BACIA HIDROGRÁFICA DO RIO PRETO - BA. Prod. técnica resultado da dissertação do discente Ítalo Rômulo Mendes de Souza, defendida em 2020 no PPG-CRENAC do IF Goiano, campus Urutaí. [Descrição completa](produtos/2020/mapa_bhrp.md). [DOI:10.33837/cr.map.0120](https://doi.org/10.33837/cr.map.0120) | 2020
+[<img src="imagens/invasoras.png" width="250">](https://ppgcrenacurt.github.io/Plantas_Invasoras_Brasil/) | MAPAS DE RIQUEZA DE ESPÉCIES DE PLANTAS INVASORAS NO BRASIL NOS CENÁRIOS ATUAL E FUTURO (2080). Prod. técnica da dissertação de Luiza Gabriela Fulgêncio Lima, defendida em 2018 no PPG-CRENAC/IFGoiano. | 2020
+[<img src="imagens/tartarugas.png" width="250">](https://ppgcrenacurt.github.io/Tartarugas_Terrestres/) | MAPA DE RIQUEZA DE ESPÉCIES DE TARTARUAS TERRESTRES NO BRASIL. Prod. técnica da dissertação de Luiza Gabriela Fulgêncio Lima, defendida em 2018 no PPG-CRENAC/IFGoiano. [Descrição completa](produtos/2019/manual_teste1.pdf) | 2020
 
 
 ----
@@ -31,8 +31,8 @@ Preview | Produto | Ano
 
 Preview | Produto | Ano
 -----------|:------------------------------------------------------|:----- 
-[<img src="imagens/seedwater.png" width="250">](https://cran.r-project.org/package=seedwater) | _seedwater_: models for drying and soaking kinetics of seeds (version 1.0). [Descrição completa](produtos/2020/software_seedwater.md). Registro INPI: BR512019000731-0 | 2019
-[<img src="imagens/predcomp.png" width="250">](https://appsoilphysics.shinyapps.io/PredComp) | _PredComp_: Predition of Soil Compaction Induced by Agricultural Field Traffic. [Descrição completa](produtos/2020/software_predcomp.md). Registro INPI: BR512020001301-5 | 2020
+[<img src="imagens/seedwater.png" width="200">](https://cran.r-project.org/package=seedwater) | _seedwater_: models for drying and soaking kinetics of seeds (version 1.0). [Descrição completa](produtos/2020/software_seedwater.md). Registro INPI: BR512019000731-0 | 2019
+[<img src="imagens/predcomp.png" width="200">](https://appsoilphysics.shinyapps.io/PredComp) | _PredComp_: Predition of Soil Compaction Induced by Agricultural Field Traffic. [Descrição completa](produtos/2020/software_predcomp.md). Registro INPI: BR512020001301-5 | 2020
 
 
 ----
@@ -54,7 +54,7 @@ em breve...
 
 Preview | Produto | Ano
 -----------|:------------------------------------------------------|:----- 
-[<img src="imagens/cartilha_ambiental_guilherme_aline.jpeg" width="200">](produtos/2020/GuilhermeAline1.pdf) | Cartilha de filmes para sere utilizados em aulas de Educação Ambiental. [Descrição completa]() | 2020
+[<img src="imagens/cartilha_ambiental_guilherme_aline.jpeg" width="150">](produtos/2020/GuilhermeAline1.pdf) | Cartilha de filmes para sere utilizados em aulas de Educação Ambiental. [Descrição completa]() | 2020
 
 
 
