@@ -37,9 +37,7 @@ Preview | Produto | Ano
 
 ## Cursos e treinamentos
 
-Aqui está o slide do curso: [Clique aqui](produtos/2020/Power1.pptx)
-
-Aqui o mapa: [MATOPIBA](https://ppgcrenacurt.github.io/MATOPIBA/)
+em breve...
 
 ----
 
