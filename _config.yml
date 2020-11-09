@@ -1,8 +1,8 @@
 title: PPG-CRENAC
 description: PTTs
 markdown: kramdown
-theme: jekyll-theme-basically-basic
-plugins: # previously gems
+theme: minima
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
