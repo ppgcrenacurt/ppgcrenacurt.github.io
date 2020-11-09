@@ -30,7 +30,7 @@ Preview | Produto | Ano
 
 Preview | Produto | Ano
 -----------|:------------------------------------------------------|:----- 
-[![](imagens/seedwater.png)](https://cran.r-project.org/package=seedwater) | _seedwater_: models for drying and soaking kinetics of seeds (version 1.0). [Descrição completa](produtos/2020/software_seedwater.md). Registro INPI: BR512019000731-0 | 2019
+[<img src="imagens/seedwater.png" width="250">](https://cran.r-project.org/package=seedwater) | _seedwater_: models for drying and soaking kinetics of seeds (version 1.0). [Descrição completa](produtos/2020/software_seedwater.md). Registro INPI: BR512019000731-0 | 2019
 
 
 ----
@@ -52,7 +52,7 @@ em breve...
 
 Preview | Produto | Ano
 -----------|:------------------------------------------------------|:----- 
-[<img src="imagens/cartilha_ambiental_guilherme_aline.jpeg" width="150">](produtos/2020/GuilhermeAline1.pdf) | Cartilha de filmes para sere utilizados em aulas de Educação Ambiental. [Descrição completa] | 2020
+[<img src="imagens/cartilha_ambiental_guilherme_aline.jpeg" width="200">](produtos/2020/GuilhermeAline1.pdf) | Cartilha de filmes para sere utilizados em aulas de Educação Ambiental. [Descrição completa] | 2020
 
 
 
