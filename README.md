@@ -51,8 +51,10 @@ em breve...
 ## Produto bibliográfico técnico
 
 Preview | Produto | Ano
---------|:------------------------------------------------------|:----- 
-[![](imagens/cartilha_ambiental.png)](produtos/2020/GuilhermeAline1.pdf) | Cartilha de filmes para sere utilizados em aulas de Educação Ambiental. [Descrição completa] | 2020
+-----------|:------------------------------------------------------|:----- 
+[<img src="imagens/cartilha_ambiental_guilherme_aline.jpeg" width="150">](produtos/2020/GuilhermeAline1.pdf) | Cartilha de filmes para sere utilizados em aulas de Educação Ambiental. [Descrição completa] | 2020
+
+
 
 ## Contato
 E-mail: ppgcrenac.urt@ifgoiano.edu.br
