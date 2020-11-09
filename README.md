@@ -57,5 +57,4 @@ em breve...
 
 ## Contato
 E-mail: ppgcrenac.urt@ifgoiano.edu.br
-
 Coordenação: daniel.paivasilva@ifgoiano.edu.br
