@@ -21,7 +21,7 @@ Preview | Produto | Ano
 [![](imagens/matopiba.png)](https://ppgcrenacurt.github.io/MATOPIBA/) | MAPAS DE USO E COBERTURA DO SOLO DO MATOPIBA, EM 2008 E 2018. Produção técnica resultado da dissertação do discente Temístocles Pacheco Lima, defendida em 2020 no PPG-CRENAC/IFGoiano. | 2020
 [![](imagens/bhrp.png)](https://ppgcrenacurt.github.io/Bacia_Hidrografica_Rio_Preto/) | MAPA INTERATIVO DA CAPACIDADE DE SUPORTE DE CARGA DE SOLOS DA BACIA HIDROGRÁFICA DO RIO PRETO - BA. Prod. técnica resultado da dissertação do discente Ítalo Rômulo Mendes de Souza, defendida em 2020 no PPG-CRENAC do IF Goiano, campus Urutaí. [Descrição completa](produtos/2020/mapa_bhrp.md). [DOI:10.33837/cr.map.0120](https://doi.org/10.33837/cr.map.0120) | 2020
 [![](imagens/invasoras.png)](https://ppgcrenacurt.github.io/Plantas_Invasoras_Brasil/) | MAPAS DE RIQUEZA DE ESPÉCIES DE PLANTAS INVASORAS NO BRASIL NOS CENÁRIOS ATUAL E FUTURO (2080). Prod. técnica da dissertação de Luiza Gabriela Fulgêncio Lima, defendida em 2018 no PPG-CRENAC/IFGoiano. | 2020
-[![](imagens/tartarugas.png)](https://ppgcrenacurt.github.io/Tartarugas_Terrestres/) | MAPA DE RIQUEZA DE ESPÉCIES DE TARTARUAS TERRESTRES NO BRASIL. Prod. técnica da dissertação de Luiza Gabriela Fulgêncio Lima, defendida em 2018 no PPG-CRENAC/IFGoiano. | 2020
+[![](imagens/tartarugas.png)](https://ppgcrenacurt.github.io/Tartarugas_Terrestres/) | MAPA DE RIQUEZA DE ESPÉCIES DE TARTARUAS TERRESTRES NO BRASIL. Prod. técnica da dissertação de Luiza Gabriela Fulgêncio Lima, defendida em 2018 no PPG-CRENAC/IFGoiano. [Descrição completa](produtos/2019/manual_teste1.pdf) | 2020
 
 
 ----
