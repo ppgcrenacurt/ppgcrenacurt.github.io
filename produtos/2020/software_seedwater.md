@@ -14,7 +14,7 @@
 
 **Data de publicação**: 30/01/2019
 
-**Registro**: BR 51 2019 000731 0 - Instituto Nacional da Propriedade Industrial (INPI)
+**Registro**: BR512019000731-0 - Instituto Nacional da Propriedade Industrial (INPI)
 
 **Resumo digital hash (SHA-512)**: a3ec4a071c26a0a8d1c8eed8bd22ea519c833bd8eb94189b78625138de90c428f53fdd2f693d06aa5bf3ea308b8ff8eeae0122b4c5b544b48510348e15201d9a
 
