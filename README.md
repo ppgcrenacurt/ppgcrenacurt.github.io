@@ -10,6 +10,7 @@
    * [&#x1f4bb; Software](#software)
    * [&#x1f393; Cursos e treinamentos](#cursos-e-treinamentos)
    * [&#x1f4dd; Protocolos e processos](#protocolos-e-processos)
+   * [&#128240; Produtos bibliográficos](#produtos-bibliográficos)
    * [&#x2709; Contato](#contato)
 
 ----
@@ -48,13 +49,18 @@ em breve...
 
 ----
 
-## Produto bibliográfico técnico
+## Produtos bibliográficos
 
-em breve...
+Preview | Produto | Ano
+-----------|:------------------------------------------------------|:----- 
+[<img src="imagens/cartilha_ambiental_guilherme_aline.jpeg" width="200">](produtos/2020/GuilhermeAline1.pdf) | Cartilha de filmes para sere utilizados em aulas de Educação Ambiental. [Descrição completa]() | 2020
+
+
 
 ----
 
 
 ## Contato
 E-mail: ppgcrenac.urt@ifgoiano.edu.br
+
 Coordenação: daniel.paivasilva@ifgoiano.edu.br
