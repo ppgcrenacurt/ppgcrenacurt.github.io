@@ -50,8 +50,6 @@ em breve...
 
 ## Produto bibliográfico técnico
 
-Preview | Produto | Ano
------------|:------------------------------------------------------|:----- 
 em breve...
 
 ----
