@@ -4,11 +4,19 @@
 
 **Tipo**: Software
 
+**Tipo de programa**: SM-01
+
+**Campo de aplicação**: AG-09; MT-06
+
 **URL**: <https://cran.r-project.org/package=seedwater>
 
-**Ano de publicação**: 2019
+**Disponibilidade**: irrestrita
+
+**Data de publicação**: 30/01/2019
 
 **Registro**: BR 51 2019 000731 0 - Instituto Nacional da Propriedade Industrial (INPI)
+
+**Resumo digital hash (SHA-512)**: a3ec4a071c26a0a8d1c8eed8bd22ea519c833bd8eb94189b78625138de90c428f53fdd2f693d06aa5bf3ea308b8ff8eeae0122b4c5b544b48510348e15201d9a
 
 **Impacto, relevância social e econômica**: _seedwater_ é uma ferramenta computacional que permite o ajuste interativo de modelos relacionados a cinética de secagem e absorção de água em sementes. Ocorre que esses modelos são do tipo não linear, dependendo de valores ("chutes") iniciais para os parâmetros, alguns de difícil obtenção, o que dificulta o ajuste, principalmente nos modelos mais complexos, envolvendo duas ou três fases de embebição. Consequentemente, o estudo apropriado do processo de hidratação e de perda de água pode ficar comprometido. Para resolver isto, _seedwater_ utiliza-se da biblioteca independente _tcltk_ para construção de interface gráfica com a qual o usuário pode manipular controles do tipo slide e “botões” para determinação visual de valores iniciais para parâmetros de diversos modelos de predição, permitindo que o usuário “aproxime” a curva (equação) escolhida aos dados observados em ensaios laboratoriais. _seedwater_ é distribuido de forma livre e conta com sumário e documentação completa fornecidos em páginas html onde são descritas as funcionalidades e referências. Na distribuição há ainda conjuntos de dados para uso em exemplos. Desta forma, viabiliza a sua aplicação tanto em pesquisa quanto para o ensino de disciplinas como secagem de produtos agropecuários, fisiologia de sementes, modelagem, entre outras, sendo, como destacado, de fácil operação. E tem sido tem sido amplamente utilizado, como se pode avaliar (donwloads/mês): ![](https://cranlogs.r-pkg.org/badges/seedwater)
 
